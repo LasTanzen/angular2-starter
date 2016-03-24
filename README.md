@@ -5,3 +5,4 @@ Just another Angular2 Preset (for ES6/ES7)
 - e2e testing
 - production/deployment
 - add documentation
+- handle images
