@@ -1,6 +1,6 @@
 import 'es6-shim';
 import 'reflect-metadata';
-import 'zone.js/dist/zone-microtask';
+import 'zone.js';
 import 'rxjs/Rx';
 import 'angular2/core';
 import 'angular2/common';
